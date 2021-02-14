@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+#caja1,
+#caja2{
+    width: 250px;
+    height: 250px;
+    background: lightblue;
+    border: 10px solid red;
+    margin: 15px 15px 15px 15px;
+    margin-bottom:50px ;
+    margin-top: 34px;
+    margin-left: 20px;
+    margin-right: 38px;
+    padding: 20px;
+    padding-bottom: 60;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    line-height: 235px;
+}
